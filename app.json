@@ -1,7 +1,7 @@
 {
     "name": "𝚂𝙰𝙼𝙰𝙽𝚃𝙷𝙰",
     "description": "This Bot Will Help You To Store Files In Cloud Storage. You Can Add Files To The Bot By Forward the last file from a public channel to your bot and Press Yes Button.. If The Files Channl Is Private Make the bot admin on the channel and forward the last file to bot. Then Add the bot to you group and send the movie name The Bot Will Give the file in Bot PM..✮✮",
-    "logo": "https://telegra.ph/file/d9fde1b775f903af19a37.jpg",
+    "logo": "https://telegra.ph/file/d7c8133709358edb2accf.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Samantha-a/Film-Club",
-    "repository": "https://github.com/Samantha-a/Film-Club",
+    "website": "https://github.com/JustinJaise/Beast",
+    "repository": "https://github.com/JustinJaise/Beast",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
