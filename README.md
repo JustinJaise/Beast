@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="L2EMPURAAN.jpg" alt="𝙻2_𝙴𝙼𝙿𝚄𝚁𝙰𝙰𝙽 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃">
+  <img src="beast.jpg" alt="BEAST 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃">
 </p>
 <h1 align="center">
   <b>𝙻2_𝙴𝙼𝙿𝚄𝚁𝙰𝙰𝙽 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃</b>
@@ -47,7 +47,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Samantha-a/L2Empuraan">
+<a href="https://heroku.com/deploy?template=https://github.com/JustinJaise/Beast">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
