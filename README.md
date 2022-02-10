@@ -2,7 +2,7 @@
   <img src="beast.jpg" alt="BEAST 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃">
 </p>
 <h1 align="center">
-  <b>𝙻2_𝙴𝙼𝙿𝚄𝚁𝙰𝙰𝙽 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃</b>
+  <b>BEAST 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃</b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/Samantha-a/Film-Club?style=flat-square&color=green)](https://github.com/Samantha-a/Film-Club/stargazers)
@@ -93,6 +93,6 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐋𝐁𝐈𝐍](https://t.me/albintko)                                                                                                                                        
-𝙶𝚁𝙾𝚄𝙿 ›› [𝗙𝗶𝗹𝗶𝗺 𝗖𝗹𝘂𝗯](https://t.me/moviebus2)                                             
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐅𝐂 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 | Super Sharanya](https://t.me/+AMHw_K1wvOM3MTU9)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [MASTER_BRAIN](https://t.me/Master_Brain1)                                                                                                                                        
+𝙶𝚁𝙾𝚄𝙿 ›› [MR GROUP](https://t.me/MalayalamRocckers)                                             
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [TM CHANNEL| Super Sharanya](https://t.me/TamilRockerssk)
